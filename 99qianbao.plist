@@ -1,58 +1,49 @@
-<pre style="box-sizing: border-box; font-family: Consolas, Menlo, Courier, monospace; font-size: 16px; white-space: pre-wrap; position: relative; line-height: 1.5; color: rgb(153, 153, 153); margin: 1em 0px; padding: 12px 10px; background-color: rgb(244, 245, 246); border: 1px solid rgb(232, 232, 232);"><?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
- Property List.plist
- David
- Created by David on 2018/10/25.
- Copyright (c) 2018年 MOON All rights reserved.
--->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
- <dict>
- <key>items</key>
- <array>
- <dict>
- <key>assets</key>
- <array>
- <dict>
- <key>kind</key>
- <string>software-package</string>
- <key>url</key>
- <string>https://raw.githubusercontent.com/suilihui/test/master/99qianbao.ipa</string>
- </dict>
- <dict>
- <key>kind</key>
- <string>full-size-image</string>
- <key>needs-shine</key>
- <true/>
- <key>url</key>
- <string>https://raw.githubusercontent.com/suilihui/test/raw/master/57*57.png</string>
- </dict>
- <dict>
- <key>kind</key>
- <string>display-image</string>
- <key>needs-shine</key>
- <true/>
- <key>url</key>
- <string>https://raw.githubusercontent.com/suilihui/test/raw/master/521*521.png</string>
- </dict>
- </array>
- <key>metadata</key>
- <dict>
- <key>bundle-identifier</key>
- <string>bundleID</string>
- <key>bundle-version</key>
- <string>1.0</string>
- <key>kind</key>
- <string>software</string>
- <key>subtitle</key>
- <string>App</string>
- <key>title</key>
- <string>99qianbao</string>
- </dict>
- </dict>
- </array>
- </dict>
-
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://qiniu.coco-online.cn/99qianbao.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://qiniu.coco-online.cn/521%2A521.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://qiniu.coco-online.cn/57%2A57.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.fenmijike.iosgjq.99qianbao</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>App</string>
+                <key>title</key>
+                <string>99qianbao</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
 </plist>
-
-</pre>
