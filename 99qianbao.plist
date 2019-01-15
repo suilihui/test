@@ -25,7 +25,7 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>https://118.244.228.156/57*57.png</string>
+ <string>https://raw.githubusercontent.com/suilihui/test/raw/master/57*57.png</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -33,7 +33,7 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>https://118.244.228.156/521*521.png</string>
+ <string>https://raw.githubusercontent.com/suilihui/test/raw/master/521*521.png</string>
  </dict>
  </array>
  <key>metadata</key>
